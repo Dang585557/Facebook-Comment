@@ -1,0 +1,6 @@
+PAGE_ACCESS_TOKEN=EAABsb....
+# ใส่โทเคนเพจของคุณจริง ๆ
+OPENAI_API_KEY=sk-proj-...       
+# ใส่ API Key ของ OpenAI
+VERIFY_TOKEN=dang-secret-token  
+# ใส่อะไรก็ได้ (ต้องตรงกับที่คุณใช้ยืนยัน Webhook ใน Facebook Developer)
